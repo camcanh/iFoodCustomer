@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "iFood/FoodTableViewController.swift"
+            timestampString = "515978652.029525"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "FoodTableViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iFood.FoodTableViewController.__deallocating_deinit"
+                  moduleName = "iFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Desktop/iFood%20Customer%20edition/iFood/FoodTableViewController.swift"
+                  timestampString = "515978652.772762"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iFood.FoodTableViewController.init (style : __C.UITableViewStyle) -&gt; iFood.FoodTableViewController"
+                  moduleName = "iFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Desktop/iFood%20Customer%20edition/iFood/FoodTableViewController.swift"
+                  timestampString = "515978652.776041"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "39">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iFood.FoodTableViewController.__allocating_init (style : __C.UITableViewStyle) -&gt; iFood.FoodTableViewController"
+                  moduleName = "iFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Desktop/iFood%20Customer%20edition/iFood/FoodTableViewController.swift"
+                  timestampString = "515978652.779413"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iFood.FoodTableViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iFood.FoodTableViewController"
+                  moduleName = "iFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Desktop/iFood%20Customer%20edition/iFood/FoodTableViewController.swift"
+                  timestampString = "515978652.781844"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "94">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iFood.FoodTableViewController.__allocating_init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; iFood.FoodTableViewController"
+                  moduleName = "iFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Desktop/iFood%20Customer%20edition/iFood/FoodTableViewController.swift"
+                  timestampString = "515978652.784188"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iFood.FoodTableViewController.__allocating_init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iFood.FoodTableViewController&gt;"
+                  moduleName = "iFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Desktop/iFood%20Customer%20edition/iFood/FoodTableViewController.swift"
+                  timestampString = "515978652.786112"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "iFood.FoodTableViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;iFood.FoodTableViewController&gt;"
+                  moduleName = "iFood"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/iosdev/Desktop/iFood%20Customer%20edition/iFood/FoodTableViewController.swift"
+                  timestampString = "515978652.787663"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
